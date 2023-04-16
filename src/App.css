@@ -1,0 +1,54 @@
+/* Styling for main div of "App.js" file */
+.App {
+  text-align: center;
+}
+
+/* Styling for reactstrap buttons ( such as navigation buttons, "Cancel" buttons, "Submit" buttons ) */
+.main-buttons{
+  margin:10px 20px;
+}
+
+/* Styling for reactstrap buttons ( such as "View", "Edit", "Delete" ) */
+.action-buttons{
+  margin:0px 5px;
+}
+
+
+
+/* Styling for reactstrap "FormGroup" in "ActionStudent.js" file */
+.actionStudent-formgroup > Input{
+margin-bottom: 20px;
+}
+
+/* Styling for main reactstrap "Container" in all the components */
+.main-container{
+  margin-bottom: 200px;
+}
+
+
+/* Styling for the selection-list in "ActionStudent.js" file */
+.select-block{
+  margin:10px;
+  border:1px solid blue;
+  border-radius: 0.5rem;
+}
+
+/* Styling for the "NOTE" */
+.suggestion-span{
+  font-size:smaller;
+}
+
+.note-b{
+  margin-right: 20px;
+}
+
+.teachers-note-p{
+  font-size: small;
+}
+
+
+/* Styling for suggestion at the top */
+.netlify-suggestion-p{
+  font-size: small;
+}
+
